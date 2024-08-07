@@ -49,8 +49,6 @@ files=(
   typst.toml
   LICENSE
   README.md
-  manual.typ
-  manual.pdf
 )
 
 # Local package directories per platform
